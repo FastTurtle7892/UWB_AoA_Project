@@ -1,0 +1,21 @@
+{
+  "kalman": {
+    "best_Q": 0.012743,
+    "best_R": 0.379269,
+    "best_rmse_cm": 13.93,
+    "raw_rmse_cm": 22.45,
+    "improvement_pct": 38.0
+  },
+  "moving_average": {
+    "best_W": 16,
+    "best_rmse_cm": 16.35,
+    "raw_rmse_cm": 22.45,
+    "improvement_pct": 27.2
+  },
+  "median": {
+    "best_N": 29,
+    "best_rmse_cm": 15.85,
+    "raw_rmse_cm": 22.45,
+    "improvement_pct": 29.4
+  }
+}
